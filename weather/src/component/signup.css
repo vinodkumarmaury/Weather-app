@@ -1,0 +1,65 @@
+/* Style for container */
+.container {
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-image: url('https://www.postoast.com/wp-content/uploads/2023/08/Koi-Ladki-Hai-dance-SWAGATA-GHOSH.jpg');
+    height: 600px;
+ 
+  }
+  
+  /* Style for form */
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Style for form fields */
+  label {
+    margin-bottom: 5px;
+  }
+  
+  input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  /* Style for submit button */
+  button[type="submit"] {
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Hover effect for submit button */
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Style for home button */
+  .home-button {
+    display: block;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  
+  /* Hover effect for home button */
+  .home-button:hover {
+    background-color: #0056b3;
+  }
+  
